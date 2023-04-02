@@ -1,3 +1,7 @@
+$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 <!---  
    #!/bin/bash
    # This script calculates simple interest given principal,
@@ -18,7 +22,7 @@
    # simple interest = p*t*r
 -->
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 
    echo "Enter the principal:"
    read p
