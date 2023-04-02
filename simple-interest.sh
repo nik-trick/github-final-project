@@ -2,6 +2,14 @@ $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
+$${\color{red}Red}$$
+
+$${\color{red}Red}$$
+
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 <!---  
    #!/bin/bash
    # This script calculates simple interest given principal,
