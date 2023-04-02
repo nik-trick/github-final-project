@@ -26,6 +26,10 @@
 @@ text in purple (and bold)@@
 ```
 
+```json
+Foobar is a Python library for dealing with word pluralization.
+```
+
    echo "Enter the principal:"
    read p
    echo "Enter rate of interest per year:"
