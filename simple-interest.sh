@@ -18,6 +18,14 @@
    # simple interest = p*t*r
 -->
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
    echo "Enter the principal:"
    read p
    echo "Enter rate of interest per year:"
