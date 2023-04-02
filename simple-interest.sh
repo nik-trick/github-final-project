@@ -1,5 +1,7 @@
 **The Cauchy-Schwarz Inequality**
 
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
@@ -15,8 +17,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 \usepackage{letltxmacro}
-
-<!---  
+ 
    #!/bin/bash
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
@@ -34,7 +35,6 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
    # Output:
    # simple interest = p*t*r
--->
 
 
 
