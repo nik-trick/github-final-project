@@ -10,6 +10,8 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
+\usepackage{letltxmacro}
+
 <!---  
    #!/bin/bash
    # This script calculates simple interest given principal,
