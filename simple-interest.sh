@@ -18,17 +18,7 @@
    # simple interest = p*t*r
 -->
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-```json
-Foobar is a Python library for dealing with word pluralization.
-```
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
    echo "Enter the principal:"
    read p
